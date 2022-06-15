@@ -1,6 +1,6 @@
 # demo_app_with_100ms_and_bloc
 
-A new Flutter project.
+A new Flutter app which show how to build video conferencing apps using blocand 100ms.
 
 ## Getting Started
 
